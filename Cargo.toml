@@ -1,0 +1,7 @@
+[package]
+name = "rubick"
+version = "0.1.0"
+authors = ["Czipperz <czipperz@gmail.com>"]
+
+[dependencies]
+rand = "*"
